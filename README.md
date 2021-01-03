@@ -114,5 +114,5 @@ Les admins peuvent agir suite au signalement d'un comportement inadéquat par un
 
 ### Crédit
 
-Merci aux contributeurs du ["Code of conduct" de la communauté GDG Libreville] 
+Merci aux contributeurs du ["Code of conduct" de la communauté GDG Libreville] (https://github.com/GDGLibreville/Code_de_conduite_GDG_Libreville).
 La 1ère version de ce code de conduite a été en grande partie une traduction de leur travail.
