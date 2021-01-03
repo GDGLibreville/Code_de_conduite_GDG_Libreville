@@ -1,1 +1,1 @@
-# Code_de_conduite_Groupe_Whatsapp_GDG_Libreville
+# Code_de_conduite_GDG_Libreville
