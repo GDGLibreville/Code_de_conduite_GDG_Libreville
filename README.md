@@ -12,8 +12,6 @@ Voici un rappel de ce qui n'est pas toléré : blagues ou offenses à propos de 
 ## Code de conduite
 
 ### 1. Le *GDG Libreville* doit être un endroit sûr pour tous, peu importe
-* le genre, l'identité du genre ou son expression
-* l'orientation sexuelle
 * les handicaps
 * l'apparence physique (y compris la taille/masse du corps)
 * les ethnies, pays d'origine et nationalités
