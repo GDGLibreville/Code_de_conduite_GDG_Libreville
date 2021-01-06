@@ -22,7 +22,7 @@ Voici un rappel de ce qui n'est pas toléré : blagues ou offenses à propos de 
 * Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
 * Nous n'avons aucune tolérance pour les abus, le harcèlement ou la discrimination.
 * Nous respectons les limites personnelles et l'identité de chacun.
-* Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppressif, par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale.
+* Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppressif, par exemple sexiste, raciste,  etc.. Ainsi que des critiques concernant le handicap, le physique ou la classe sociale.
 * Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll) nottament à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
 
