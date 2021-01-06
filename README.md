@@ -63,7 +63,7 @@ Voici la liste des administrateurs ainsi que leurs identifiants RS :
 
 * Romaric BANGA - @bangaromaric
 * Dimitri ONGOUA - @DimitriOngoua
-* Yves Le Grand - @
+* Yves Le Grand - @yveslegrand241
 * Cecilia EKOMY - @CEkomy
 * Marcel ANVANE - @LeckiMarcel
 
