@@ -16,7 +16,7 @@ Nous avons comme missions:
 * Développer et élargir l'intérêt pour les technologies au Gabon
 * Faire découvrir les outils Google
 * Valoriser la compétence locale
-* Impacter l'écosystème Gabonnais
+* Impacter l'écosystème Gabonais
 
 ## Code de conduite
 
