@@ -9,6 +9,15 @@ Le groupe *GDG Libreville* est une communauté **Gabonaise** rassemblant des per
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
 Voici un rappel de ce qui n'est pas toléré : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
+## Nos missions
+
+Nous avons comme missions:
+* Organiser des événements de manière régulière
+* Développer et élargir l'intérêt pour les technologies au Gabon
+* Faire découvrir les outils Google
+* Valoriser la compétence locale
+* Impacter l'écosystème Gabonnais
+
 ## Code de conduite
 
 ### 1. Le *GDG Libreville* doit être un endroit sûr pour tous, peu importe
