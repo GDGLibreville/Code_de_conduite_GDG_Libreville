@@ -6,7 +6,7 @@
 
 Le groupe *GDG Libreville* est une communauté **Gabonaise** à but non lucratif rassemblant des personnes passionnées par les technologies de Google et d'autre Open source. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant le même intérêt.
 
-C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci.
+C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celle-ci.
 Voici un rappel de ce qui n'est pas toléré : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
 ## Nos missions
@@ -29,7 +29,7 @@ Nous avons comme missions:
 **Intégrité Professionnelle**: Les membres s'engagent à agir de manière intègre, honnête et éthique dans leurs interactions au sein de la communauté.
 
 
-### Article 3. En tant que membre de GDG Libreville, tu acceptes participé activement
+### Article 3. En tant que membre de GDG Libreville, tu acceptes participer activement
 
 **Participation aux Événements et Activité**: Les membres sont encouragés à participer activement aux événements, ateliers et activités organisés par le Google Developers Group Libreville.
 
@@ -48,7 +48,7 @@ En cas de non-respect de cette charte, des sanctions peuvent être prises par le
 * Demande des conseils / de l'aide pour éviter de commettre une nouvelle infraction.
 * Présente tes excuses et demande pardon.
 
-Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du sur Google Chat et whatsapp. En cas de récidive, ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement sur slack et whatsapp.
+Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du sur Google Chat et whatsapp. En cas de récidive, ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement sur Google Chat et whatsapp.
 
 ### Article 5. Respect de la vie privée
 
@@ -66,8 +66,6 @@ Voici la liste des administrateurs ainsi que leurs identifiants RS :
 * Yves Le Grand - @yveslegrand241 
 * Cecilia EKOMY - @CEkomy
 * Marcel ANVANE - @LeckiMarcel
-
-*Le rôle d'un administrateur est d'être un médiateur impartial, il ne modère ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
 
 #### Article 7 Questions / Réponses
