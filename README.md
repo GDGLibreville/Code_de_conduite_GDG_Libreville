@@ -31,13 +31,9 @@ Nous avons comme missions:
 
 ### Article 3. En tant que membre de GDG Libreville, tu acceptes participé activement
 
-#### Participation aux Événements et Activité
+**Participation aux Événements et Activité**: Les membres sont encouragés à participer activement aux événements, ateliers et activités organisés par le Google Developers Group Libreville.
 
-Les membres sont encouragés à participer activement aux événements, ateliers et activités organisés par le Google Developers Group Libreville.
-
-#### Contributions
-
-Chaque membre est encouragé à contribuer au partage de connaissances et d'expertise au sein de la communauté.
+**Contributions**: Chaque membre est encouragé à contribuer au partage de connaissances et d'expertise au sein de la communauté.
 
 
 ### Article 4. Sanction :
